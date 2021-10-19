@@ -92,7 +92,7 @@ list-style: none;
 .posts li .name_body .datetime{
     color: gray;
 }
-.posts li .menu .menus{
+.posts li .menu {
     display: none;
     position: absolute;
     right: 15px;
